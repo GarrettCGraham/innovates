@@ -1,0 +1,847 @@
+######################## 0 : 03054 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       373206
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       373206
+Number of reduced targets:                                        373206
+Number of reduced targets plus number of dropped targets:         373206
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           373206
+Number of final features:                                         373206
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               21054
+Number of final pivoted features:                                 21054
+
+
+######################## 1 : 03728 ########################
+Original set of targets:                                          ['' 'Acclima-Too high']
+Original number of targets:                                       476809
+
+Remaining unique labels:                                          ['' 'Acclima-Too high']
+Original number of targets:                                       476809
+Number of reduced targets:                                        476809
+Number of reduced targets plus number of dropped targets:         476809
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           476775
+Number of final features:                                         476775
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               27905
+Number of final pivoted features:                                 27905
+
+
+######################## 2 : 03758 ########################
+Original set of targets:                                          ['' 'spike']
+Original number of targets:                                       240948
+
+Remaining unique labels:                                          ['' 'spike']
+Original number of targets:                                       240948
+Number of reduced targets:                                        240948
+Number of reduced targets plus number of dropped targets:         240948
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           240948
+Number of final features:                                         240948
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike']
+Number of final labels after pivoting and matching:               12241
+Number of final pivoted features:                                 12241
+
+
+######################## 3 : 03759 ########################
+Original set of targets:                                          ['' 'Acclima-Failure' 'Acclima-Zero']
+Original number of targets:                                       172761
+
+Remaining unique labels:                                          ['' 'Acclima-Zero']
+Original number of targets:                                       172761
+Number of reduced targets:                                        172592
+Number of reduced targets plus number of dropped targets:         172761
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           172589
+Number of final features:                                         172589
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               19164
+Number of final pivoted features:                                 19164
+
+
+######################## 4 : 04126 ########################
+Original set of targets:                                          ['' 'spike']
+Original number of targets:                                       209247
+
+Remaining unique labels:                                          ['' 'spike']
+Original number of targets:                                       209247
+Number of reduced targets:                                        209247
+Number of reduced targets plus number of dropped targets:         209247
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           209247
+Number of final features:                                         209247
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike']
+Number of final labels after pivoting and matching:               25358
+Number of final pivoted features:                                 25358
+
+
+######################## 5 : 04127 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       310704
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       310704
+Number of reduced targets:                                        310704
+Number of reduced targets plus number of dropped targets:         310704
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           310704
+Number of final features:                                         310704
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               16905
+Number of final pivoted features:                                 16905
+
+
+######################## 6 : 04141 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       416180
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       416180
+Number of reduced targets:                                        416180
+Number of reduced targets plus number of dropped targets:         416180
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           416180
+Number of final features:                                         416180
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               23660
+Number of final pivoted features:                                 23660
+
+
+######################## 7 : 04236 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       288584
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       288584
+Number of reduced targets:                                        288584
+Number of reduced targets plus number of dropped targets:         288584
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           288584
+Number of final features:                                         288584
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               15438
+Number of final pivoted features:                                 15438
+
+
+######################## 8 : 04990 ########################
+Original set of targets:                                          ['' 'noise']
+Original number of targets:                                       348855
+
+Remaining unique labels:                                          ['' 'noise']
+Original number of targets:                                       348855
+Number of reduced targets:                                        348855
+Number of reduced targets plus number of dropped targets:         348855
+
+Final set of unique labels:                                       ['' 'noise']
+Number of final labels:                                           348855
+Number of final features:                                         348855
+
+Final set of unique labels in targets' pd.series object:          ['' 'noise']
+Number of final labels after pivoting and matching:               19467
+Number of final pivoted features:                                 19467
+
+
+######################## 9 : 04994 ########################
+Original set of targets:                                          ['' 'noise' 'spike']
+Original number of targets:                                       343505
+
+Remaining unique labels:                                          ['' 'noise' 'spike']
+Original number of targets:                                       343505
+Number of reduced targets:                                        343505
+Number of reduced targets plus number of dropped targets:         343505
+
+Final set of unique labels:                                       ['' 'noise' 'spike']
+Number of final labels:                                           343505
+Number of final features:                                         343505
+
+Final set of unique labels in targets' pd.series object:          ['' 'noise' 'spike']
+Number of final labels after pivoting and matching:               19062
+Number of final pivoted features:                                 19062
+
+
+######################## 10 : 13301 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       355964
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       355964
+Number of reduced targets:                                        355964
+Number of reduced targets plus number of dropped targets:         355964
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           355964
+Number of final features:                                         355964
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               19915
+Number of final pivoted features:                                 19915
+
+
+######################## 11 : 23906 ########################
+Original set of targets:                                          ['' 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       370158
+
+Remaining unique labels:                                          ['' 'spike' 'noise' 'Acclima-Zero']
+Original number of targets:                                       370158
+Number of reduced targets:                                        370158
+Number of reduced targets plus number of dropped targets:         370158
+
+Final set of unique labels:                                       ['' 'spike' 'noise']
+Number of final labels:                                           369048
+Number of final features:                                         369048
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike' 'noise']
+Number of final labels after pivoting and matching:               18576
+Number of final pivoted features:                                 18576
+
+
+######################## 12 : 23907 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       184269
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       184269
+Number of reduced targets:                                        184269
+Number of reduced targets plus number of dropped targets:         184269
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           184269
+Number of final features:                                         184269
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               21143
+Number of final pivoted features:                                 21143
+
+
+######################## 13 : 23909 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       355521
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       355521
+Number of reduced targets:                                        355521
+Number of reduced targets plus number of dropped targets:         355521
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           355521
+Number of final features:                                         355521
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               19861
+Number of final pivoted features:                                 19861
+
+
+######################## 14 : 26563 ########################
+Original set of targets:                                          ['' 'Acclima-Too high' 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       457391
+
+Remaining unique labels:                                          ['' 'spike' 'Acclima-Zero' 'noise']
+Original number of targets:                                       457391
+Number of reduced targets:                                        457134
+Number of reduced targets plus number of dropped targets:         457391
+
+Final set of unique labels:                                       ['' 'spike' 'noise']
+Number of final labels:                                           454740
+Number of final features:                                         454740
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike' 'noise']
+Number of final labels after pivoting and matching:               24015
+Number of final pivoted features:                                 24015
+
+
+######################## 15 : 53132 ########################
+Original set of targets:                                          ['' 'spike']
+Original number of targets:                                       367029
+
+Remaining unique labels:                                          ['' 'spike']
+Original number of targets:                                       367029
+Number of reduced targets:                                        367029
+Number of reduced targets plus number of dropped targets:         367029
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           367029
+Number of final features:                                         367029
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike']
+Number of final labels after pivoting and matching:               20655
+Number of final pivoted features:                                 20655
+
+
+######################## 16 : 53152 ########################
+Original set of targets:                                          ['' 'Acclima-NoPrcpResponse' 'Acclima-Zero' 'spike']
+Original number of targets:                                       368442
+
+Remaining unique labels:                                          ['' 'Acclima-Zero' 'spike']
+Original number of targets:                                       368442
+Number of reduced targets:                                        368237
+Number of reduced targets plus number of dropped targets:         368442
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           368215
+Number of final features:                                         368215
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike']
+Number of final labels after pivoting and matching:               20523
+Number of final pivoted features:                                 20523
+
+
+######################## 17 : 53154 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       181088
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       181088
+Number of reduced targets:                                        181088
+Number of reduced targets plus number of dropped targets:         181088
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           181088
+Number of final features:                                         181088
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               20678
+Number of final pivoted features:                                 20678
+
+
+######################## 18 : 53155 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       199617
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       199617
+Number of reduced targets:                                        199617
+Number of reduced targets plus number of dropped targets:         199617
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           199617
+Number of final features:                                         199617
+
+Final set of unique labels in targets' pd.series object:          []
+Number of final labels after pivoting and matching:               0
+Number of final pivoted features:                                 0
+
+
+######################## 19 : 53877 ########################
+Original set of targets:                                          ['' 'Acclima-Failure' 'Acclima-Zero']
+Original number of targets:                                       241670
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       241670
+Number of reduced targets:                                        225176
+Number of reduced targets plus number of dropped targets:         241670
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           225176
+Number of final features:                                         225176
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               4059
+Number of final pivoted features:                                 4059
+
+
+######################## 20 : 53960 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       248753
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       248753
+Number of reduced targets:                                        248753
+Number of reduced targets plus number of dropped targets:         248753
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           248753
+Number of final features:                                         248753
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               12756
+Number of final pivoted features:                                 12756
+
+
+######################## 21 : 53968 ########################
+Original set of targets:                                          ['' 'Acclima-Zero' 'noise']
+Original number of targets:                                       249528
+
+Remaining unique labels:                                          ['' 'Acclima-Zero']
+Original number of targets:                                       249528
+Number of reduced targets:                                        242281
+Number of reduced targets plus number of dropped targets:         249528
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           241509
+Number of final features:                                         241509
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               4814
+Number of final pivoted features:                                 4814
+
+
+######################## 22 : 54795 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       151159
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       151159
+Number of reduced targets:                                        151159
+Number of reduced targets plus number of dropped targets:         151159
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           151159
+Number of final features:                                         151159
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               15682
+Number of final pivoted features:                                 15682
+
+
+######################## 23 : 54808 ########################
+Original set of targets:                                          ['' 'Acclima-Failure' 'Acclima-Static' 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       454718
+
+Remaining unique labels:                                          ['' 'noise' 'spike']
+Original number of targets:                                       454718
+Number of reduced targets:                                        443837
+Number of reduced targets plus number of dropped targets:         454718
+
+Final set of unique labels:                                       ['' 'noise' 'spike']
+Number of final labels:                                           443837
+Number of final features:                                         443837
+
+Final set of unique labels in targets' pd.series object:          ['noise' '']
+Number of final labels after pivoting and matching:               8576
+Number of final pivoted features:                                 8576
+
+
+######################## 24 : 54811 ########################
+Original set of targets:                                          ['' 'Acclima-NoPrcpResponse' 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       345151
+
+Remaining unique labels:                                          ['' 'spike' 'Acclima-NoPrcpResponse' 'Acclima-Zero' 'noise']
+Original number of targets:                                       345151
+Number of reduced targets:                                        345151
+Number of reduced targets plus number of dropped targets:         345151
+
+Final set of unique labels:                                       ['' 'spike' 'noise']
+Number of final labels:                                           343999
+Number of final features:                                         343999
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike']
+Number of final labels after pivoting and matching:               18079
+Number of final pivoted features:                                 18079
+
+
+######################## 25 : 54933 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       347295
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       347295
+Number of reduced targets:                                        347295
+Number of reduced targets plus number of dropped targets:         347295
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           347295
+Number of final features:                                         347295
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               17859
+Number of final pivoted features:                                 17859
+
+
+######################## 26 : 63826 ########################
+Original set of targets:                                          ['' 'Acclima-Too high' 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       352099
+
+Remaining unique labels:                                          ['' 'Acclima-Zero' 'spike']
+Original number of targets:                                       352099
+Number of reduced targets:                                        341225
+Number of reduced targets plus number of dropped targets:         352099
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           340326
+Number of final features:                                         340326
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               13750
+Number of final pivoted features:                                 13750
+
+
+######################## 27 : 63828 ########################
+Original set of targets:                                          ['' 'Acclima-Zero']
+Original number of targets:                                       250476
+
+Remaining unique labels:                                          ['' 'Acclima-Zero']
+Original number of targets:                                       250476
+Number of reduced targets:                                        250476
+Number of reduced targets plus number of dropped targets:         250476
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           250473
+Number of final features:                                         250473
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               12915
+Number of final pivoted features:                                 12915
+
+
+######################## 28 : 63829 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       469940
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       469940
+Number of reduced targets:                                        469940
+Number of reduced targets plus number of dropped targets:         469940
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           469940
+Number of final features:                                         469940
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               26268
+Number of final pivoted features:                                 26268
+
+
+######################## 29 : 63831 ########################
+Original set of targets:                                          ['' 'Acclima-Failure' 'Acclima-Zero' 'spike']
+Original number of targets:                                       247945
+
+Remaining unique labels:                                          ['' 'spike']
+Original number of targets:                                       247945
+Number of reduced targets:                                        240980
+Number of reduced targets plus number of dropped targets:         247945
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           240980
+Number of final features:                                         240980
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike']
+Number of final labels after pivoting and matching:               5771
+Number of final pivoted features:                                 5771
+
+
+######################## 30 : 63849 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       364796
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       364796
+Number of reduced targets:                                        364796
+Number of reduced targets plus number of dropped targets:         364796
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           364796
+Number of final features:                                         364796
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               20482
+Number of final pivoted features:                                 20482
+
+
+######################## 31 : 63850 ########################
+Original set of targets:                                          ['' 'spike']
+Original number of targets:                                       352535
+
+Remaining unique labels:                                          ['' 'spike']
+Original number of targets:                                       352535
+Number of reduced targets:                                        352534
+Number of reduced targets plus number of dropped targets:         352535
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           352534
+Number of final features:                                         352534
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               17704
+Number of final pivoted features:                                 17704
+
+
+######################## 32 : 63855 ########################
+Original set of targets:                                          ['' 'Acclima-Failure' 'Acclima-NoPrcpResponse' 'Acclima-Too high'
+ 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       362960
+
+Remaining unique labels:                                          ['' 'noise' 'spike' 'Acclima-Zero']
+Original number of targets:                                       362960
+Number of reduced targets:                                        347940
+Number of reduced targets plus number of dropped targets:         362960
+
+Final set of unique labels:                                       ['' 'noise' 'spike']
+Number of final labels:                                           347936
+Number of final features:                                         347936
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               13788
+Number of final pivoted features:                                 13788
+
+
+######################## 33 : 63856 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       242424
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       242424
+Number of reduced targets:                                        242424
+Number of reduced targets plus number of dropped targets:         242424
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           242424
+Number of final features:                                         242424
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               12367
+Number of final pivoted features:                                 12367
+
+
+######################## 34 : 63857 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       253763
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       253763
+Number of reduced targets:                                        253763
+Number of reduced targets plus number of dropped targets:         253763
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           253763
+Number of final features:                                         253763
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               13098
+Number of final pivoted features:                                 13098
+
+
+######################## 35 : 63858 ########################
+Original set of targets:                                          ['' 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       415484
+
+Remaining unique labels:                                          ['' 'noise' 'Acclima-Zero' 'spike']
+Original number of targets:                                       415484
+Number of reduced targets:                                        402383
+Number of reduced targets plus number of dropped targets:         415484
+
+Final set of unique labels:                                       ['' 'noise' 'spike']
+Number of final labels:                                           402374
+Number of final features:                                         402374
+
+Final set of unique labels in targets' pd.series object:          ['' 'noise']
+Number of final labels after pivoting and matching:               10781
+Number of final pivoted features:                                 10781
+
+
+######################## 36 : 63869 ########################
+Original set of targets:                                          ['' 'Acclima-Zero' 'noise' 'spike']
+Original number of targets:                                       472673
+
+Remaining unique labels:                                          ['' 'noise' 'Acclima-Zero']
+Original number of targets:                                       472673
+Number of reduced targets:                                        459431
+Number of reduced targets plus number of dropped targets:         472673
+
+Final set of unique labels:                                       ['' 'noise']
+Number of final labels:                                           424804
+Number of final features:                                         424804
+
+Final set of unique labels in targets' pd.series object:          ['noise' '']
+Number of final labels after pivoting and matching:               7828
+Number of final pivoted features:                                 7828
+
+
+######################## 37 : 64756 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       425212
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       425212
+Number of reduced targets:                                        425212
+Number of reduced targets plus number of dropped targets:         425212
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           425212
+Number of final features:                                         425212
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               24522
+Number of final pivoted features:                                 24522
+
+
+######################## 38 : 64758 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       277926
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       277926
+Number of reduced targets:                                        277926
+Number of reduced targets plus number of dropped targets:         277926
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           277926
+Number of final features:                                         277926
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               14835
+Number of final pivoted features:                                 14835
+
+
+######################## 39 : 92821 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       128111
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       128111
+Number of reduced targets:                                        128111
+Number of reduced targets plus number of dropped targets:         128111
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           128111
+Number of final features:                                         128111
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               12541
+Number of final pivoted features:                                 12541
+
+
+######################## 40 : 92826 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       132719
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       132719
+Number of reduced targets:                                        132719
+Number of reduced targets plus number of dropped targets:         132719
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           132719
+Number of final features:                                         132719
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               12630
+Number of final pivoted features:                                 12630
+
+
+######################## 41 : 92827 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       241257
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       241257
+Number of reduced targets:                                        241257
+Number of reduced targets plus number of dropped targets:         241257
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           241257
+Number of final features:                                         241257
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               12316
+Number of final pivoted features:                                 12316
+
+
+######################## 42 : 93243 ########################
+Original set of targets:                                          ['' 'Acclima-Too high' 'Acclima-Zero' 'spike']
+Original number of targets:                                       367504
+
+Remaining unique labels:                                          ['' 'Acclima-Too high' 'Acclima-Zero' 'spike']
+Original number of targets:                                       367504
+Number of reduced targets:                                        367504
+Number of reduced targets plus number of dropped targets:         367504
+
+Final set of unique labels:                                       ['' 'spike']
+Number of final labels:                                           358043
+Number of final features:                                         358043
+
+Final set of unique labels in targets' pd.series object:          ['' 'spike']
+Number of final labels after pivoting and matching:               11291
+Number of final pivoted features:                                 11291
+
+
+######################## 43 : 94074 ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       309976
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       309976
+Number of reduced targets:                                        309976
+Number of reduced targets plus number of dropped targets:         309976
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           309976
+Number of final features:                                         309976
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               16854
+Number of final pivoted features:                                 16854
+
+
+######################## 44 : 94644 ########################
+Original set of targets:                                          ['' 'Acclima-Failure' 'Acclima-Zero']
+Original number of targets:                                       291858
+
+Remaining unique labels:                                          ['' 'Acclima-Zero' 'Acclima-Failure']
+Original number of targets:                                       291858
+Number of reduced targets:                                        291162
+Number of reduced targets plus number of dropped targets:         291858
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           287681
+Number of final features:                                         287681
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               14936
+Number of final pivoted features:                                 14936
+
+
+######################## 45 : 94995 ########################
+Original set of targets:                                          ['' 'noise' 'spike']
+Original number of targets:                                       306728
+
+Remaining unique labels:                                          ['' 'noise' 'spike']
+Original number of targets:                                       306728
+Number of reduced targets:                                        306726
+Number of reduced targets plus number of dropped targets:         306728
+
+Final set of unique labels:                                       ['' 'noise' 'spike']
+Number of final labels:                                           306726
+Number of final features:                                         306726
+
+Final set of unique labels in targets' pd.series object:          ['' 'noise' 'spike']
+Number of final labels after pivoting and matching:               16632
+Number of final pivoted features:                                 16632
+
+
+######################## 46 : UN ########################
+Original set of targets:                                          ['']
+Original number of targets:                                       316806
+
+Remaining unique labels:                                          ['']
+Original number of targets:                                       316806
+Number of reduced targets:                                        316806
+Number of reduced targets plus number of dropped targets:         316806
+
+Final set of unique labels:                                       ['']
+Number of final labels:                                           316806
+Number of final features:                                         316806
+
+Final set of unique labels in targets' pd.series object:          ['']
+Number of final labels after pivoting and matching:               16410
+Number of final pivoted features:                                 16410
+
+
